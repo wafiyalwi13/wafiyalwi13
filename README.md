@@ -1,15 +1,22 @@
-### Hi there 👋
+### Hi Folks, Let Me Introduce Myself 👋
 
 
-I'm Wafiy, I'm new here. - 🔭 I’m currently working on Data Analytics Portfolio on GitHub.
+I'm Wafiy, I'm new here. ❄ I’m currently working on Data Analytics Portfolio on GitHub.
  🌱 I’m currently learning SQL, Tableau, R & Python. 
 
 I have developed over 10 queries and improved user understanding through detailed documentation.
 
-![git path - track and untrack](https://github.com/wafiyalwi13/wafiyalwi13/assets/129346912/a983759d-72aa-411a-a914-871e4a5fa57a)
+🏪 PROJECTS
+Welcome to my portfolio, where I showcased my Project
+
+🛠TOOLS
+Database : MS SQL, Google BigQuery
+Business Intelligent : Tableau
 
 
-- 📫 How to reach me:
- Email : @awafiyalwi@gmail.com
-LinkedIn : wafiy_alwi
+
+📫 How to reach me:
+
+Email : @awafiyalwi@gmail.com
+LinkedIn : https://www.linkedin.com/in/wafiy-alwi-8486a9129/
 
