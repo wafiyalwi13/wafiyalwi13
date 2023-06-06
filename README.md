@@ -19,6 +19,6 @@ I have developed over 10 queries and improved user understanding through detaile
 
 ## 📫 How to reach me:
 
-* Email : @awafiyalwi@gmail.com
+* Email : awafiyalwi@gmail.com
 * LinkedIn : https://www.linkedin.com/in/wafiy-alwi-8486a9129/
 
