@@ -13,6 +13,7 @@ I'm Wafiy, I'm new here. ❄ I’m currently working on Data Analytics Portfolio
 
 * Database : MS SQL, Google BigQuery
 * Business Intelligent : Tableau
+* Language : SQL, Python
 
 
 
